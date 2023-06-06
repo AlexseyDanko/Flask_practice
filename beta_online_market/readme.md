@@ -1,1 +1,22 @@
-
+Flask	2.3.2	2.3.2
+Flask-SQLAlchemy	3.0.3	3.0.3
+Jinja2	3.1.2	3.1.2
+MarkupSafe	2.1.2	2.1.3
+SQLAlchemy	2.0.12	2.0.15
+Werkzeug	2.3.4	2.3.4
+blinker	1.6.2	1.6.2
+certifi	2023.5.7	2023.5.7
+charset-normalizer	3.1.0	3.1.0
+click	8.1.3	8.1.3
+cloudipsp	1.0.4	1.0.4
+colorama	0.4.6	0.4.6
+greenlet	2.0.2	2.0.2
+idna	3.4	3.4
+itsdangerous	2.1.2	2.1.2
+pip	22.3.1	23.1.2
+requests	2.30.0	2.31.0
+setuptools	65.5.1	67.8.0
+six	1.16.0	1.16.0
+typing-extensions	4.5.0	4.6.3
+urllib3	2.0.2	2.0.2
+wheel	0.38.4	0.40.0

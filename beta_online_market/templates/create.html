@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    <title>Add a product</title>
+{% endblock %}
+
+
+{% block body %}
+    <div class="container text-xl-center">
+        <h1>Add a product</h1>
+        <form method="post">
+            <input type="text" class="form-control text-primary text-xl-center" name="title" id="title" placeholder="Введите название"><br>
+            <input type="number" class="form-control text-danger font-weight-normal text-xl-center" name="price" id="price" placeholder="Введите цену"><br>
+            <input type="text" class="form-control text-warning text-xl-center " name="text" id="text" placeholder="Подробное описание"><br>
+            <button class="btn btn-outline-success" type="submit">Добавить товар</button>
+
+        </form>
+        </div>
+{% endblock %}
+
+
+
+
+
